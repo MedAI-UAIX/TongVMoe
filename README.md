@@ -74,6 +74,18 @@ _Citation information will be updated upon publication._
 
 For research collaboration, technical inquiries, or clinical applications, please contact the research team! 🎊
 
+
+## 🙏 Acknowledgments & Dependencies
+
+This project builds upon several outstanding open-source contributions:
+
+- **🌌 [VMamba](https://github.com/MzeroMiko/VMamba)**: Serves as our powerful backbone network for visual feature extraction
+- **⚙️ [LibMTL](https://github.com/median-research-group/LibMTL)**: Provides the foundational multi-task learning framework
+- **👁️‍🗨️ [TongueSAM](https://github.com/cshan-github/TongueSAM)**: Enhanced our tongue image segmentation model based on their innovative approach
+
+We express our sincere gratitude to these research teams for their valuable contributions to the open-source community! 🎊
+
+
 ---
 
 **⚠️ Disclaimer**: This system is designed for research and screening purposes. It should not replace professional medical diagnosis or treatment decisions. Always consult qualified healthcare professionals for medical care. 🩺🌿
